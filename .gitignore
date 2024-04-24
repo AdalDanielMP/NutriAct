@@ -6,18 +6,18 @@ data/mongo/journal/WiredTigerPreplog.*
 
 # dependencies
 /NutriActFB/node_modules
-/.pnp
+/NutriActFB/.pnp
 .pnp.js
 
 # testing
 /coverage
 
 # next.js
-/.next/
-/out/
+/NutriActFB/.next/
+/NutriActFB/out/
 
 # production
-/build
+/NutriActFB/build
 
 # misc
 .DS_Store
